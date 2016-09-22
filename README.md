@@ -7,8 +7,8 @@ Fornecer condições suficientes para a implementação de softwares que utilize
 
 ## Conteúdo
 
-*Introdução à Linguagem Java através de exemplos
- *Exemplos de pequenos programas em java que evidenciem: tipos básicos, decisões e laços, (mas não métodos para evitar métodos estáticos), compilação e execução, IDE, constantes, documentação. Entrada de dados.
+* Introdução à Linguagem Java através de exemplos
+ |*Exemplos de pequenos programas em java que evidenciem: tipos básicos, decisões e laços, (mas não métodos para evitar métodos estáticos), compilação e execução, IDE, constantes, documentação. Entrada de dados.
  
 *Criação de classes e Uso de objetos
  *Introdução à OO, conceito de objeto no mundo real, no mundo de software OO, diferenças entre mundo real e software, modelo, atributos, comportamento, responsabilidade, Padrão de Projeto Expert, instanciação e uso de objetos, classe de objeto, construtor, referência, métodos e envio de mensagem, encapsulamento, Identidade de objetos, uso de várias classes, overload, método de classe, persistência, tudo é um objeto, while e switch, referência nula, curto circuito.  Exemplos de pequenos programas em java que evidenciem: métodos-padrão, sobrecarga.
