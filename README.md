@@ -38,27 +38,6 @@ Fornecer condições suficientes para a implementação de softwares que utilize
   * Comunicação entre processos com Sockets. Implementação de Sockets TCP. Implementação de Sockets UDP.
 
 
-* Introdução à Linguagem de Script
-  * Fundamentos
-  * Linguagem Javascript
-* Sintaxe Javascript
-  * Elementos básicos
-  * Expressões
-  * Sentenças
-  * Funções
-  * Objetos
-  * Objetos Nativos
-  * Expressão Regular
-  * Eventos
-* Document Object Model
-  * Fundamentos
-  * API DOM
-  * Objetos do Browser
-  * HTML DOM
-* Frameworks
-  * Fundamentos
-  * Demonstração
-
 ## Avaliações
 
 A nota final será computado através da média aritmética das avaliações e poderá ser adicionada atividades extras.
