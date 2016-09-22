@@ -1,6 +1,6 @@
 # PROGRAMAÇÃO ORIENTADA A OBJETOS
 
-![Banner da disciplina](https://github.com/IFPB-JP/POO.jpg)
+![Banner da disciplina](http://relative/POO.jpg)
 
 Fornecer condições suficientes para a implementação de softwares que utilizem a arquitetura cliente-servidor em redes locais e na Internet, com o uso de uma linguagem de programação orientada a objetos. Introdução à orientação a objetos. Conceitos básicos e terminologia de Programação orientada a objetos. Linguagens típicas orientadas a objetos. Desenvolvimento de aplicações em uma linguagem orientada a objetos. 
 
