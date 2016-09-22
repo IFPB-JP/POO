@@ -52,7 +52,7 @@ A nota final será computada através da média ponderada das avaliações:
 * Projeto: [A especificação do projeto](Em breve).
 
 ## Comunicação
-Toda a comunicação será realizada usando o [![Facebook Status](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1268&bih=595&q=facebook&oq=facebook&gs_l=img.3..0l10.1448.2429.0.2727.8.6.0.2.2.0.269.747.2-3.3.0....0...1ac.1.64.img..4.4.519.gvLyxccSD-Y#imgrc=u1fpwvOu6plKoM%3A)](https://www.facebook.com/groups/168660960206699/)
+Toda a comunicação será realizada usando o [Facebook](https://www.facebook.com/groups/168660960206699/)
 
 ## Bibliografia
 
