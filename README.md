@@ -40,18 +40,20 @@ Fornecer condições suficientes para a implementação de softwares que utilize
 
 ## Avaliações
 
-A nota final será computado através da média aritmética das avaliações e poderá ser adicionada atividades extras.
+A nota final será computada através da média ponderada das avaliações:
 
-### Provas Prática
-* Avaliação I: Sintaxe e Objetos Nativos;
-* Avaliação II: DOM, BOM, HTML DOM;
-* Avaliação III: Framework e jQuery.
+* Avaliação I: Projeto (apresentações, diários de bordo e acompanhamento do projeto no Taiga) - 60%
+* Avaliação II: Exercício prático sobre Criação de classes e coleções. - 10%
+* Avaliação III: Atividade prática sobre a classe String e formatação de saídas. - 10%
+* Avaliação IV: Atividade prática sobre o Framework Collections. - 10%
+* Avaliação V: Servidor Socket. - 10%
 
 ### Trabalho
-* Projeto: [A especificação do projeto](assessment/projeto.md).
+* Projeto: [A especificação do projeto](Em breve).
 
 ## Comunicação
-Toda a comunicação será realizada usando o [![Slack Status](https://ifpb.herokuapp.com/badge.svg)](https://ifpb.herokuapp.com/)
+Toda a comunicação será realizada usando o [![Facebook Status](https://ifpb.herokuapp.com/badge.svg)](https://www.facebook.com/groups/168660960206699/)
+
 ## Bibliografia
 
 ### Bibliografia Básica
